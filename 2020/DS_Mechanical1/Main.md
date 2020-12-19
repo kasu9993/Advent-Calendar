@@ -5,7 +5,7 @@
 
 この記事は高知工科大学 
 [Advent Calendar 2020](https://adventar.org/calendars/5887) 
-20日目の記事です。
+20日目の記事です。既に学生ではありません。
 
 会社で何故かCADをやることになり最低限の操作を覚えたので、
 Raspberry Piの箱を作るチューとリアルで使い方を共有します。
@@ -15,7 +15,7 @@ Raspberry Piの箱を作るチューとリアルで使い方を共有します�
 [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software-jp)
 の公式からDLしてインストールします。
 
-<img src="img/1.png" width=400>
+<img src="img/1.png" width=350>
 
 Step1,2の順でインストール
 
@@ -24,7 +24,7 @@ Step1,2の順でインストール
 
 ## Raspberry Piの箱の作り方
 
-### 1.Raspberry PiのSTLデータの用意
+### 1.Raspberry Piの3Dデータの用意
 DesignSpark MechanicalはRSが提供しているCADツールなので<br>
 RSで扱っている商品の大半のCADデータを簡単にインポートすることが出来ます。
 <br>
@@ -46,11 +46,13 @@ RSで扱っている商品の大半のCADデータを簡単にインポートす
 
 カクカクせずに動作すればCADに適したPCと言えます。<br>
 ちなみに何か見覚えはありませんか？<br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 そうこれです。<br><br><br><br>
 <img src="img/C.gif" width=300>
 
-この確認方法はButter-Fly Checkと呼ばれており、グローバルスタンダードです。はい、嘘です。
+この確認方法はButter-Fly Checkと呼ばれており、グローバルスタンダードです。
+<br><br><br><br>
+はい、嘘です。
 
 ### 3.直方体作成
 直方体の作成について、この操作が出来ればCADの操作の5割覚えたといっても過言ではありません。<br>
