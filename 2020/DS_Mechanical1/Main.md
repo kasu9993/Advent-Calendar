@@ -7,7 +7,7 @@
 [Advent Calendar 2020](https://adventar.org/calendars/5887) 
 20日目の記事です。あ、既に学生ではありません。
 <br>
-会社で何故かCADをやることになり最低限の操作を覚えたので、Raspberry Piの箱を作るチューとリアルで使い方を共有します。<br>
+会社で何故かCADをやることになり最低限の操作を覚えたので、Raspberry Piの箱を作る例で使い方を共有します。<br>
 
 
 ## 環境
