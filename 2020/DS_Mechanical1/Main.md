@@ -171,6 +171,19 @@ Youtube:[DesignSpark Mechanicalの操作例](https://www.youtube.com/watch?v=vnW
 <br>
 <br>
 
+### 7.データ出力
+<br>
+<img src="img/25.png" width=640>
+<br>
+3Dプリンタで印刷したい場合はここからSTLファイルを出力します。
+<br>
+<br>
+<img src="img/26.png" width=640>
+<br>
+Windows標準のソフトでも確認出来ました。
+<br>
+<br>
+
 ## おわりに
 チュートリアル系書くの途中で絶対面倒くさくなるので僕には向いてませんでした。<br>
 コメントで分からないことを書いてくれれば更新するかもしれませんのでもしあれば残してください。
