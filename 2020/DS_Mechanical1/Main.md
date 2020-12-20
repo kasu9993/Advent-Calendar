@@ -59,13 +59,13 @@ DesignSpark MechanicalでDLします。
 ここでPCがCAD設計に適しているか確認します。
 ホイールをドラッグしてぐるぐるマウスを動かします。<br><br>
 <img src="img/B.gif" width=300>
-
+<br>
 カクカクせずに動作すればCADに適したPCと言えます。<br>
 ちなみに何か見覚えはありませんか？<br>
 <br><br><br><br><br><br><br><br><br>
 そう！これです。<br><br><br><br>
 <img src="img/C.gif" width=300>
-
+<br>
 この確認方法はButter-Fly Checkと呼ばれており、グローバルスタンダードです。
 <br><br><br><br>
 はい、嘘です。<br>
