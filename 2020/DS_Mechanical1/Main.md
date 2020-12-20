@@ -167,7 +167,7 @@ Youtube:[DesignSpark Mechanicalの操作例](https://www.youtube.com/watch?v=vnW
 <br>
 <img src="img/24.png" width=640>
 <br>
-プルを選択して面とりしたい辺を選択するとR指定で面取り出来ます。(プルで出来ること多すぎ...)
+プルを選択して面取りしたい辺を選択するとR指定で面取り出来ます。(プルで出来ること多すぎ...)
 <br>
 <br>
 
