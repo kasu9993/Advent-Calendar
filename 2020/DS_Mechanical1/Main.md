@@ -15,7 +15,7 @@
 [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software-jp)
 の公式からDLしてインストールします。
 
-<img src="img/1.png" width=350>
+<img src="img/1.png" width=420>
 
 Step1,2の順でインストール
 
@@ -28,15 +28,15 @@ Step1,2の順でインストール
 DesignSpark MechanicalはRSが提供しているCADツールなので<br>
 RSで扱っている商品の大半のCADデータを簡単にインポートすることが出来ます。
 <br><br>
-<img src="img/3_1.png" width=350>
+<img src="img/3_1.png" width=420>
 <br>
 ツールバーの3Dモデルのダウンロード、検索で**Raspberry Pi 3**と検索すると3Dモデルがヒットするのでクリックします。
 <br><br>
-<img src="img/5_1.png" width=350>
+<img src="img/5_1.png" width=420>
 <br>
 DesignSpark MechanicalでDLします。
 <br><br>
-<img src="img/17_1.png" width=350>
+<img src="img/17_1.png" width=420>
 <br>
 モデルの追加は、プロジェクトのデザインに **.rsdoc**ファイルをドロップすると追加出来ます。<br>
 **デザインがない場合は、左上のファイルから新規作成で出来ます。**
@@ -73,11 +73,11 @@ DesignSpark MechanicalでDLします。
 
 #### **物体移動編**
 <br>
-<img src="img/22_1.png" width=350>
+<img src="img/22_1.png" width=420>
 <br>
 単純にものを移動させたい場合は、移動させたいデザインのオブジェクトをクリックして、ツールバーの移動を選択して青,赤,緑の矢印を引っ張れば全体的に移動すると思います。
 <br><br>
-<img src="img/23.png" width=350>
+<img src="img/23.png" width=420>
 <br>
 この移動矢印は好きな面に置くことが出来るので裏面を起点にしたかったら黄色の丸をドラッグして裏面に持っていきます。
 <br><br>
@@ -85,27 +85,27 @@ DesignSpark MechanicalでDLします。
 ### 3.直方体作成
 直方体の作成について、この操作が出来ればCADの操作の5割覚えたといっても過言ではありません。
 <br><br>
-<img src="img/8_1.png" width=350>
+<img src="img/8_1.png" width=420>
 <br>
 まずはRaspberry Piを真上に見ます。<br>
 左下のXYZキューブでクリックしたり、ドラッグすると見たい位置に移動できると思います。
 <br><br>
-<img src="img/9.png" width=350>
+<img src="img/9.png" width=420>
 <br>
 長方形を適当に引きます。ここで理想サイズに合わせても良いし、後からでも調整出来ます。<br>
 今回はRaspberry Piの3Dがあるので後から調整します。
 <br><br>
-<img src="img/18.png" width=350>
+<img src="img/18.png" width=420>
 <br>
 長方形が引けたら適当な高さに押し出しプルします。デザイン、編集にプルがあるので選択して<br>
 黄色の矢印が出るので引っ張ります。
 <br><br>
-<img src="img/19.png" width=350>
+<img src="img/19.png" width=420>
 <br>
 直方体が出来ても透けていないと見えずらいので透けさせたいsolidを選択してツールバーの<br>
 表示、色、不透明度で下ると見えやすいです。
 <br><br>
-<img src="img/11.png" width=350>
+<img src="img/11.png" width=420>
 <br>
 <br>
 はい！Raspberry Piの箱が完成しました！！お疲れ様でした!!
@@ -121,11 +121,11 @@ DesignSpark MechanicalでDLします。
 <br>
 ### 4.プルの別の使い方
 プルは面を押し出して直方体を作る以外に任意サイズの面をへこませたり貫通させることも可能です。<br><br>
-<img src="img/20.png" width=350>
+<img src="img/20.png" width=420>
 <br>
 Raspberry Piをチェックを外して非表示にして直方体の面の上に先ほどした同じ操作で長方形を描きます。
 <br><br>
-<img src="img/21.png" width=350>
+<img src="img/21.png" width=420>
 <br>
 描いたらその面に対してまたプルすることが出来るのでへこむ方向に黄色矢印を引っ張ると上が空いた箱になると思います。<br>
 この状態で長さが適当でも大丈夫です。
@@ -148,7 +148,7 @@ Raspberry Piをチェックを外して非表示にして直方体の面の上�
 <br>
 長さを入力
 <br>
-<img src="img/14.png" width=350>
+<img src="img/14.png" width=420>
 <br><br>
 でその場所まで面が移動すると思います。<br>
 この操作でRaspbery Piの辺や面を参照することですきな長さの箱が作成可能になったはずです。<br>
@@ -165,7 +165,7 @@ Youtube:[DesignSpark Mechanicalの操作例](https://www.youtube.com/watch?v=vnW
 最後にお子さんがRaspbrry Piを使って遊ぶ場合に、角が鋭いと危険なので面取り機能を紹介します。
 
 <br>
-<img src="img/24.png" width=350>
+<img src="img/24.png" width=420>
 <br>
 プルを選択して面とりしたい辺を選択するとR指定で面取り出来ます。(プルで出来ること多すぎ...)
 <br>
