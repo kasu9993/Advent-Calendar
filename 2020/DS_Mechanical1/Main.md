@@ -66,7 +66,7 @@ DesignSpark MechanicalでDLします。
 そう！これです。<br><br><br><br>
 <img src="img/C.gif" width=300>
 <br>
-この確認方法はButter-Fly Checkと呼ばれており、グローバルスタンダードな確認方法ですです。
+この確認方法はButter-Fly Checkと呼ばれており、グローバルスタンダードな確認方法です。
 <br><br><br><br>
 はい、嘘です。<br>
 向きがおかしくなったら、ツールバーのデザイン、ホームでデフォルトの位置に戻ると思います。
