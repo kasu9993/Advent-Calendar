@@ -1,5 +1,5 @@
 
-# 猫でも分かるDesignSpark Mechanicalの使い方
+# DesignSpark Mechanicalの使い方
 
 ## はじめに
 
